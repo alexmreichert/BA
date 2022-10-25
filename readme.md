@@ -5,10 +5,12 @@
 ## ID Pipeline
 
 ### LM
-* upload.py
-* log.py
-* motorcontroller.py
-* scan.py
+* upload.py : send upload message to *imagegeneration* of the training pipeline
+    * set *ml* to *false* to train for the registration pipeline
+    * to generate more than one variation of dataset remove if statement at the end
+* log.py : download log messages and saves to csv
+* motorcontroller.py : turn motor when recieving a message 
+* scan.py: scans when recieves message of turn and then upload pcd to *containerlmdp*
 
 ### Data Prep
 *edit config before using*
@@ -17,6 +19,7 @@
     * finds center turntable
     * finds ellipse distortion
     * finds y-axis distortion
+    * ![alt text](images/config.png)
 * Normal
     * runs if config.pkl is available
     * loads pcd from storage *containerlmdp*
@@ -44,6 +47,11 @@ Follow steps:
 * Identification and evaluation with [test_ID.ipynb](IdentificationML/test_ID.ipynb). *remember to correct label order in labels.txt when generating new Dataset*
 
 ## Training Pipeline
-Generate point cloud from STL
+### Train Reg
+Generate Point Cloud from STL, File dictionary and Annoy tree for ID
+
+### Train ML
+Generate Point Clouds from STL, create dataset and the Train a model using this dataset. Google Colab is used to train the Model
+
 
 
