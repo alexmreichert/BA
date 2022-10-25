@@ -1,0 +1,9 @@
+#messaging
+azure_messaging_connectionstring: "Endpoint=sb://messagingpipeline.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=yd4DxLLNyHoYZQGQ/RmYP3uZvDggm1RmBQuI7WUyGGY="
+queue_name: "queue"
+
+#storage
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=pipelinestorageazu;AccountKey=J6QLmIIoKg5qG9LM5OeUS4yGjzS77NMTnaTCLk3ayT/iiioE++OaNHi5OMvgjgnm3uZsonfM6Z4L+AStnCUmFQ==;EndpointSuffix=core.windows.net"
+container_name: "container"
+source_folder: "C:\\Users\\alexa\\Documents\\Uni\\Sem8\\01_BA\\03_Code\\TEST\\test_pipeline\\source" 
+save_folder: "C:\\Users\\alexa\\Documents\\Uni\\Sem8\\01_BA\\03_Code\\TEST\\test_pipeline\\save"

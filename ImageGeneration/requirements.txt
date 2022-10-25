@@ -1,0 +1,7 @@
+PyYAML
+azure.storage.blob
+azure.core
+azure.servicebus
+open3d
+numpy
+h5py

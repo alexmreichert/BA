@@ -1,0 +1,113 @@
+variant: 1
+labels: ['Bauteil-022', 'Bauteil-016', 'Bauteil-010', 'Bauteil-030', 'Bauteil-028', 'Bauteil-007', 'Bauteil-019', 'Bauteil-026', 'Bauteil-013', 'Bauteil-011', 'Bauteil-023', 'Bauteil-009', 'Bauteil-025', 'Bauteil-029', 'Bauteil-018', 'Bauteil-008', 'Bauteil-006', 'Bauteil-027', 'Bauteil-024', 'Bauteil-012', 'Bauteil-017', 'Bauteil-015', 'Bauteil-020', 'Bauteil-014']
+
+variant: 2
+labels: ['Bauteil-022', 'Bauteil-016', 'Bauteil-010', 'Bauteil-030', 'Bauteil-028', 'Bauteil-007', 'Bauteil-019', 'Bauteil-026', 'Bauteil-013', 'Bauteil-011', 'Bauteil-023', 'Bauteil-009', 'Bauteil-025', 'Bauteil-029', 'Bauteil-018', 'Bauteil-008', 'Bauteil-006', 'Bauteil-027', 'Bauteil-024', 'Bauteil-012', 'Bauteil-017', 'Bauteil-015', 'Bauteil-020', 'Bauteil-014']
+
+variant: 3
+labels: ['Bauteil-022', 'Bauteil-016', 'Bauteil-010', 'Bauteil-030', 'Bauteil-028', 'Bauteil-007', 'Bauteil-019', 'Bauteil-026', 'Bauteil-013', 'Bauteil-011', 'Bauteil-023', 'Bauteil-009', 'Bauteil-025', 'Bauteil-029', 'Bauteil-018', 'Bauteil-008', 'Bauteil-006', 'Bauteil-027', 'Bauteil-024', 'Bauteil-012', 'Bauteil-017', 'Bauteil-015', 'Bauteil-020', 'Bauteil-014']
+
+variant: 4
+labels: ['Bauteil-022', 'Bauteil-016', 'Bauteil-010', 'Bauteil-030', 'Bauteil-028', 'Bauteil-007', 'Bauteil-019', 'Bauteil-026', 'Bauteil-013', 'Bauteil-011', 'Bauteil-023', 'Bauteil-009', 'Bauteil-025', 'Bauteil-029', 'Bauteil-018', 'Bauteil-008', 'Bauteil-006', 'Bauteil-027', 'Bauteil-024', 'Bauteil-012', 'Bauteil-017', 'Bauteil-015', 'Bauteil-020', 'Bauteil-014']
+
+variant: 5
+labels: ['Bauteil-022', 'Bauteil-016', 'Bauteil-010', 'Bauteil-030', 'Bauteil-028', 'Bauteil-007', 'Bauteil-019', 'Bauteil-026', 'Bauteil-013', 'Bauteil-011', 'Bauteil-023', 'Bauteil-009', 'Bauteil-025', 'Bauteil-029', 'Bauteil-018', 'Bauteil-008', 'Bauteil-006', 'Bauteil-027', 'Bauteil-024', 'Bauteil-012', 'Bauteil-017', 'Bauteil-015', 'Bauteil-020', 'Bauteil-014']
+
+variant: 6
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 7
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 8
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 9
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 10
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 11
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 12
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 13
+labels: ['Bauteil-006', 'Bauteil-007', 'Bauteil-008', 'Bauteil-009', 'Bauteil-010', 'Bauteil-011', 'Bauteil-012', 'Bauteil-013', 'Bauteil-014', 'Bauteil-015', 'Bauteil-016', 'Bauteil-017', 'Bauteil-018', 'Bauteil-019', 'Bauteil-020', 'Bauteil-022', 'Bauteil-023', 'Bauteil-024', 'Bauteil-025', 'Bauteil-026', 'Bauteil-027', 'Bauteil-028', 'Bauteil-029', 'Bauteil-030']
+
+variant: 14
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 15
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 16
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 17
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 18
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 19
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 20
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 21
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 22
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 23
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 24
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 25
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 26
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 27
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 28
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 29
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 30
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 31
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 32
+labels: ['Bauteil-029', 'Bauteil-028', 'Bauteil-007', 'Bauteil-023', 'Bauteil-016', 'Bauteil-014', 'Bauteil-008', 'Bauteil-012', 'Bauteil-030', 'Bauteil-006', 'Bauteil-011', 'Bauteil-025', 'Bauteil-017', 'Bauteil-027', 'Bauteil-022', 'Bauteil-024', 'Bauteil-018', 'Bauteil-015', 'Bauteil-010', 'Bauteil-026', 'Bauteil-009', 'Bauteil-019', 'Bauteil-020', 'Bauteil-013']
+
+variant: 35
+labels: ['Bauteil-030', 'Bauteil-025', 'Bauteil-028', 'Bauteil-022', 'Bauteil-029', 'Bauteil-016', 'Bauteil-014', 'Bauteil-024', 'Bauteil-023', 'Bauteil-026', 'Bauteil-020', 'Bauteil-015', 'Bauteil-013', 'Bauteil-027', 'Bauteil-010', 'Bauteil-009', 'Bauteil-006', 'Bauteil-018', 'Bauteil-007', 'Bauteil-012', 'Bauteil-019', 'Bauteil-008', 'Bauteil-017', 'Bauteil-011']
+
+variant: 36
+labels: ['Bauteil-006', 'Bauteil-027', 'Bauteil-022', 'Bauteil-007', 'Bauteil-010', 'Bauteil-023', 'Bauteil-015', 'Bauteil-026', 'Bauteil-030', 'Bauteil-020', 'Bauteil-024', 'Bauteil-025', 'Bauteil-014', 'Bauteil-029', 'Bauteil-013', 'Bauteil-019', 'Bauteil-011', 'Bauteil-008', 'Bauteil-012', 'Bauteil-009', 'Bauteil-018', 'Bauteil-028', 'Bauteil-016', 'Bauteil-017']
+
+variant: 37
+labels: ['Bauteil-023', 'Bauteil-020', 'Bauteil-017', 'Bauteil-028', 'Bauteil-011', 'Bauteil-029', 'Bauteil-030', 'Bauteil-026', 'Bauteil-019', 'Bauteil-027', 'Bauteil-009', 'Bauteil-010', 'Bauteil-024', 'Bauteil-025', 'Bauteil-016', 'Bauteil-006', 'Bauteil-013', 'Bauteil-018', 'Bauteil-022', 'Bauteil-015', 'Bauteil-008', 'Bauteil-012', 'Bauteil-007', 'Bauteil-014']
+
+variant: 38
+labels: ['Bauteil-028', 'Bauteil-006', 'Bauteil-008', 'Bauteil-020', 'Bauteil-013', 'Bauteil-024', 'Bauteil-018', 'Bauteil-012', 'Bauteil-029', 'Bauteil-026', 'Bauteil-016', 'Bauteil-014', 'Bauteil-027', 'Bauteil-025', 'Bauteil-022', 'Bauteil-011', 'Bauteil-009', 'Bauteil-023', 'Bauteil-007', 'Bauteil-017', 'Bauteil-015', 'Bauteil-030', 'Bauteil-010', 'Bauteil-019']
+
+variant: 39
+labels: ['Bauteil-020', 'Bauteil-012', 'Bauteil-026', 'Bauteil-017', 'Bauteil-023', 'Bauteil-008', 'Bauteil-029', 'Bauteil-006', 'Bauteil-024', 'Bauteil-019', 'Bauteil-022', 'Bauteil-010', 'Bauteil-025', 'Bauteil-018', 'Bauteil-027', 'Bauteil-028', 'Bauteil-007', 'Bauteil-015', 'Bauteil-030', 'Bauteil-011', 'Bauteil-016', 'Bauteil-013', 'Bauteil-014', 'Bauteil-009']
+
+variant: 40
+labels: ['Bauteil-020', 'Bauteil-012', 'Bauteil-026', 'Bauteil-017', 'Bauteil-023', 'Bauteil-008', 'Bauteil-029', 'Bauteil-006', 'Bauteil-024', 'Bauteil-019', 'Bauteil-022', 'Bauteil-010', 'Bauteil-025', 'Bauteil-018', 'Bauteil-027', 'Bauteil-028', 'Bauteil-007', 'Bauteil-015', 'Bauteil-030', 'Bauteil-011', 'Bauteil-016', 'Bauteil-013', 'Bauteil-014', 'Bauteil-009']

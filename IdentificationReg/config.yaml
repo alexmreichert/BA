@@ -1,0 +1,19 @@
+#messaging
+max_runs: 10
+repeat: 2
+wait_time: 60
+azure_messaging_connectionstring: Endpoint=sb://messagingpipeline.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=yd4DxLLNyHoYZQGQ/RmYP3uZvDggm1RmBQuI7WUyGGY=
+queue_name: queue
+
+#storage
+azure_storage_connectionstring: DefaultEndpointsProtocol=https;AccountName=pipelinestorageazu;AccountKey=J6QLmIIoKg5qG9LM5OeUS4yGjzS77NMTnaTCLk3ayT/iiioE++OaNHi5OMvgjgnm3uZsonfM6Z4L+AStnCUmFQ==;EndpointSuffix=core.windows.net
+container_name: container
+save_folder: download
+save_folder_scan: download_scan
+upload_folder: upload
+
+#testanddebug
+use_local_files_trir: False
+use_local_files_dpir: False
+print_stuff: True
+vizualize_stuff: False

@@ -1,0 +1,8 @@
+PyYAML
+azure.storage.blob
+azure.core
+azure.servicebus
+open3d
+numpy
+annoy
+scikit-learn

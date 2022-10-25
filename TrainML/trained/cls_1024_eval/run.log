@@ -1,0 +1,26 @@
+Namespace(batch_size=64, dataset='modelnet40', dropout=0.5, emb_dims=1024, epochs=5, eval=False, exp_name='cls_1024_eval', k=20, lr=0.001, model='dgcnn', model_path='output/model (1).pth', momentum=0.9, no_cuda=False, num_points=1024, scheduler='cos', seed=1, test_batch_size=32, use_sgd=True)
+Using GPU : 0 from 1 devices
+Namespace(batch_size=64, dataset='modelnet40', dropout=0.5, emb_dims=1024, epochs=5, eval=False, exp_name='cls_1024_eval', k=20, lr=0.001, model='dgcnn', model_path='output/model (1).pth', momentum=0.9, no_cuda=False, num_points=1024, scheduler='cos', seed=1, test_batch_size=32, use_sgd=True)
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.844634, train acc: 0.875000, train avg acc: 0.870355
+Test 0, loss: 1.610061, test acc: 0.955479, test avg acc: 0.967901
+Train 1, loss: 1.419061, train acc: 0.994792, train avg acc: 0.994237
+Test 1, loss: 1.314755, test acc: 1.000000, test avg acc: 1.000000
+Train 2, loss: 1.370806, train acc: 0.998264, train avg acc: 0.998675
+Test 2, loss: 1.251418, test acc: 1.000000, test avg acc: 1.000000
+Train 3, loss: 1.327146, train acc: 1.000000, train avg acc: 1.000000
+Test 3, loss: 1.260485, test acc: 1.000000, test avg acc: 1.000000
+Train 4, loss: 1.317655, train acc: 1.000000, train avg acc: 1.000000
+Test 4, loss: 1.244088, test acc: 1.000000, test avg acc: 1.000000
+Namespace(batch_size=64, dataset='modelnet40', dropout=0.5, emb_dims=1024, epochs=5, eval=False, exp_name='cls_1024_eval', k=20, lr=0.001, model='dgcnn', model_path='', momentum=0.9, no_cuda=False, num_points=1024, scheduler='cos', seed=1, test_batch_size=32, use_sgd=True)
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.846398, train acc: 0.872396, train avg acc: 0.868640
+Test 0, loss: 1.658808, test acc: 0.791096, test avg acc: 0.849383
+Train 1, loss: 1.411458, train acc: 0.997396, train avg acc: 0.997315
+Test 1, loss: 1.303431, test acc: 1.000000, test avg acc: 1.000000
+Train 2, loss: 1.356990, train acc: 1.000000, train avg acc: 1.000000
+Test 2, loss: 1.248367, test acc: 1.000000, test avg acc: 1.000000
+Train 3, loss: 1.325687, train acc: 1.000000, train avg acc: 1.000000
+Test 3, loss: 1.256645, test acc: 1.000000, test avg acc: 1.000000
+Train 4, loss: 1.315210, train acc: 1.000000, train avg acc: 1.000000
+Test 4, loss: 1.245051, test acc: 1.000000, test avg acc: 1.000000
